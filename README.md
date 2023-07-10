@@ -1,6 +1,6 @@
 # Filmopia
 
-![App Screenshot](src/assets/images/Filmpire.jpg)
+
 
 Filmopia combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
